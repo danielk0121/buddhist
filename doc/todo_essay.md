@@ -1,84 +1,84 @@
 # 수필 버전 작업 목록 (essay)
 
 경전별 수필 버전(`XX_경전명_essay.md`) 작성 현황입니다.
-`01_반야심경_easy.md` → `01_반야심경_essay.md` 로 파일명 통일 필요.
 
-## 작성 완료
+## 작성 완료 (45종 전체)
 
-- [01_반야심경_essay.md](../src/01_반야심경_essay.md) — 반야심경 수필 버전
+### 반야 계열
+- [01_반야심경_essay.md](../src/01_반야심경_essay.md)
+- [02_금강경_essay.md](../src/02_금강경_essay.md)
+- [03_대품반야경_essay.md](../src/03_대품반야경_essay.md)
+- [04_소품반야경_essay.md](../src/04_소품반야경_essay.md)
+- [05_인왕경_essay.md](../src/05_인왕경_essay.md)
+
+### 법화 계열
+- [06_법화경_essay.md](../src/06_법화경_essay.md)
+- [07_무량의경_essay.md](../src/07_무량의경_essay.md)
+- [08_관세음보살보문품_essay.md](../src/08_관세음보살보문품_essay.md)
+
+### 화엄 계열
+- [09_화엄경_essay.md](../src/09_화엄경_essay.md)
+- [10_십지경_essay.md](../src/10_십지경_essay.md)
+- [11_입법계품_essay.md](../src/11_입법계품_essay.md)
+
+### 정토경전
+- [12_아미타경_essay.md](../src/12_아미타경_essay.md)
+- [13_무량수경_essay.md](../src/13_무량수경_essay.md)
+- [14_관무량수경_essay.md](../src/14_관무량수경_essay.md)
+
+### 여래장·유식 계열
+- [15_능엄경_essay.md](../src/15_능엄경_essay.md)
+- [16_원각경_essay.md](../src/16_원각경_essay.md)
+- [17_승만경_essay.md](../src/17_승만경_essay.md)
+- [18_해심밀경_essay.md](../src/18_해심밀경_essay.md)
+- [19_입능가경_essay.md](../src/19_입능가경_essay.md)
+- [20_열반경_essay.md](../src/20_열반경_essay.md)
+
+### 대승 집성경전
+- [21_대집경_essay.md](../src/21_대집경_essay.md)
+- [22_보적경_essay.md](../src/22_보적경_essay.md)
+
+### 재가·효 계열
+- [23_유마경_essay.md](../src/23_유마경_essay.md)
+- [24_부모은중경_essay.md](../src/24_부모은중경_essay.md)
+- [25_우란분경_essay.md](../src/25_우란분경_essay.md)
+
+### 보살계·계율 계열
+- [26_범망경_essay.md](../src/26_범망경_essay.md)
+- [27_사분율_essay.md](../src/27_사분율_essay.md)
+
+### 지장·약사 계열
+- [28_지장경_essay.md](../src/28_지장경_essay.md)
+- [29_약사경_essay.md](../src/29_약사경_essay.md)
+
+### 미륵 계열
+- [30_미륵상생경_essay.md](../src/30_미륵상생경_essay.md)
+- [31_미륵하생경_essay.md](../src/31_미륵하생경_essay.md)
+
+### 밀교경전
+- [32_대일경_essay.md](../src/32_대일경_essay.md)
+- [33_금강정경_essay.md](../src/33_금강정경_essay.md)
+
+### 의식·다라니 계열
+- [34_천수경_essay.md](../src/34_천수경_essay.md)
+
+### 아함경전
+- [35_장아함경_essay.md](../src/35_장아함경_essay.md)
+- [36_중아함경_essay.md](../src/36_중아함경_essay.md)
+- [37_잡아함경_essay.md](../src/37_잡아함경_essay.md)
+- [38_증일아함경_essay.md](../src/38_증일아함경_essay.md)
+
+### 팔리어·아함 계열
+- [39_법구경_essay.md](../src/39_법구경_essay.md)
+- [40_숫타니파타_essay.md](../src/40_숫타니파타_essay.md)
+
+### 팔리어 경전
+- [41_디가니카야_essay.md](../src/41_디가니카야_essay.md)
+- [42_맛지마니카야_essay.md](../src/42_맛지마니카야_essay.md)
+- [43_상윳타니카야_essay.md](../src/43_상윳타니카야_essay.md)
+- [44_앙굿타라니카야_essay.md](../src/44_앙굿타라니카야_essay.md)
+- [45_쿳다카니카야_essay.md](../src/45_쿳다카니카야_essay.md)
 
 ## 작성 예정
 
-### 반야 계열
-- [ ] 02_금강경_essay.md
-- [ ] 03_대품반야경_essay.md
-- [ ] 04_소품반야경_essay.md
-- [ ] 05_인왕경_essay.md
-
-### 법화 계열
-- [ ] 06_법화경_essay.md
-- [ ] 07_무량의경_essay.md
-- [ ] 08_관세음보살보문품_essay.md
-
-### 화엄 계열
-- [ ] 09_화엄경_essay.md
-- [ ] 10_십지경_essay.md
-- [ ] 11_입법계품_essay.md
-
-### 정토경전
-- [ ] 12_아미타경_essay.md
-- [ ] 13_무량수경_essay.md
-- [ ] 14_관무량수경_essay.md
-
-### 여래장·유식 계열
-- [ ] 15_능엄경_essay.md
-- [ ] 16_원각경_essay.md
-- [ ] 17_승만경_essay.md
-- [ ] 18_해심밀경_essay.md
-- [ ] 19_입능가경_essay.md
-- [ ] 20_열반경_essay.md
-
-### 대승 집성경전
-- [ ] 21_대집경_essay.md
-- [ ] 22_보적경_essay.md
-
-### 재가·효 계열
-- [ ] 23_유마경_essay.md
-- [ ] 24_부모은중경_essay.md
-- [ ] 25_우란분경_essay.md
-
-### 보살계·계율 계열
-- [ ] 26_범망경_essay.md
-- [ ] 27_사분율_essay.md
-
-### 지장·약사 계열
-- [ ] 28_지장경_essay.md
-- [ ] 29_약사경_essay.md
-
-### 미륵 계열
-- [ ] 30_미륵상생경_essay.md
-- [ ] 31_미륵하생경_essay.md
-
-### 밀교경전
-- [ ] 32_대일경_essay.md
-- [ ] 33_금강정경_essay.md
-
-### 의식·다라니 계열
-- [ ] 34_천수경_essay.md
-
-### 아함경전
-- [ ] 35_장아함경_essay.md
-- [ ] 36_중아함경_essay.md
-- [ ] 37_잡아함경_essay.md
-- [ ] 38_증일아함경_essay.md
-
-### 팔리어·아함 계열
-- [ ] 39_법구경_essay.md
-- [ ] 40_숫타니파타_essay.md
-
-### 팔리어 경전
-- [ ] 41_디가니카야_essay.md
-- [ ] 42_맛지마니카야_essay.md
-- [ ] 43_상윳타니카야_essay.md
-- [ ] 44_앙굿타라니카야_essay.md
-- [ ] 45_쿳다카니카야_essay.md
+없음. 45종 전체 완료.
